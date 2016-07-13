@@ -14,7 +14,7 @@ Digitizing
 Layers
 ------
 
-* [OpenLayers Plugin](http://plugins.qgis.org/plugins/openlayers_plugin/): OpenStreetMap, Google Maps, Bing Maps, MapQuest layers and more
+* [QuickMapServices](http://plugins.qgis.org/plugins/quick_map_services/): Collection of easy to add basemaps
 * [Layers menu from project](http://plugins.qgis.org/plugins/menu_from_project/): Build layers shortcuts menus based on QGIS projects
 
 Export
@@ -25,15 +25,19 @@ Export
 
 Web
 ---
+
 * [OSMInfo](http://plugins.qgis.org/plugins/osminfo/): Get full information about a point from OpenStreetMap database
 * [Qgis2threejs](http://plugins.qgis.org/plugins/Qgis2threejs/): 3D visualization powered by WebGL technology and three.js JavaScript library
 
 Miscellaneous
 -------------
+
 * [mmqgis](http://plugins.qgis.org/plugins/mmqgis/): A collection of QGIS vector layer operation plugins
 
 Development
 -----------
+
 * [Plugin Builder](http://plugins.qgis.org/plugins/pluginbuilder/): Creates a QGIS plugin template for use as a starting point in plugin development
 * [Plugin Reloader](http://plugins.qgis.org/plugins/plugin_reloader/): Reloads a chosen plugin in one click
 * [Command Bar](http://plugins.qgis.org/plugins/qgiscommand/): A command bar interface for QGIS. Always for easy entry of commands. New commands can be created using Python
+* [First Aid](http://plugins.qgis.org/plugins/firstaid/): The must-have tool for Python plugin developers
